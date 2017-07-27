@@ -9,19 +9,19 @@ Installation
 With Meteor >=0.9.0:
 
 ```sh
-$ meteor add saraychak:ecommerce-framwork
+$ meteor add saraychak:sample-meteor-package
 ```
 
 Install like so:
 
 ```sh
-$ meteor add saraychak:ecommerce-framwork
+$ meteor add saraychak:sample-meteor-package
 ```
 
-This package is a replacement for the official `ecommerce-framwork` package, so remove it if it's already in your project:
+This package is a replacement for the official `sample-meteor-package` package, so remove it if it's already in your project:
 
 ```sh
-$ meteor remove saraychak:ecommerce-framwork
+$ meteor remove saraychak:sample-meteor-package
 ```
 
 You will also can find at github.
@@ -29,17 +29,17 @@ You will also can find at github.
 How to use
 ----------
 
-Add `{{> ecommerceFramwork}}` to your body
+Add `{{> sampleMeteorPackage}}` to your body
 
 Example:
 
 ```html
 <head>
-  <title>ecommerce-framwork</title>
+  <title>Sample Meteor Package</title>
 </head>
 
 <body>
-  {{> ecommerceFramwork}}
+  {{> sampleMeteorPackage}}
 </body>
 ```
 Thanks.
