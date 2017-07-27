@@ -1,7 +1,7 @@
 sample-meteor-package
 ==============================
 
-Here is the sample meteor package building follow [meteor guide](https://guide.meteor.com/writing-atmosphere-packages.html)
+Here is the sample meteor package built following the [meteor guide](https://guide.meteor.com/writing-atmosphere-packages.html)
 
 Installation
 ------------
