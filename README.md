@@ -1,7 +1,7 @@
-ecommerce-framwork
+sample-meteor-package
 ==============================
 
-package to add module products, point, member, and cart.
+Here is the sample meteor package building.
 
 Installation
 ------------
