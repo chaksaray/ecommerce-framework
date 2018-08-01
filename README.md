@@ -1,7 +1,7 @@
 sample-meteor-package
 ==============================
 
-Here is the sample meteor package built following the [meteor guide](https://guide.meteor.com/writing-atmosphere-packages.html)
+package to add module products, point, member, and cart. It is built following the [meteor guide](https://guide.meteor.com/writing-atmosphere-packages.html)
 
 Installation
 ------------
@@ -9,19 +9,19 @@ Installation
 With Meteor >=0.9.0:
 
 ```sh
-$ meteor add saraychak:sample-meteor-package
+$ meteor add saraychak:ecommerce-framwork
 ```
 
 Install like so:
 
 ```sh
-$ meteor add saraychak:sample-meteor-package
+$ meteor add saraychak:ecommerce-framwork
 ```
 
-This package is a replacement for the official `sample-meteor-package` package, so remove it if it's already in your project:
+This package is a replacement for the official `ecommerce-framwork` package, so remove it if it's already in your project:
 
 ```sh
-$ meteor remove saraychak:sample-meteor-package
+$ meteor remove saraychak:ecommerce-framwork
 ```
 
 You will also can find at github.
@@ -29,17 +29,17 @@ You will also can find at github.
 How to use
 ----------
 
-Add `{{> sampleMeteorPackage}}` to your body
+Add `{{> ecommerceFramwork}}` to your body
 
 Example:
 
 ```html
 <head>
-  <title>Sample Meteor Package</title>
+  <title>ecommerce-framwork</title>
 </head>
 
 <body>
-  {{> sampleMeteorPackage}}
+  {{> ecommerceFramwork}}
 </body>
 ```
 Thanks.
