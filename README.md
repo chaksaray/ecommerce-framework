@@ -1,4 +1,4 @@
-sample-meteor-package
+ecommerce-framwork
 ==============================
 
 package to add module products, point, member, and cart. It is built following the [meteor guide](https://guide.meteor.com/writing-atmosphere-packages.html)
